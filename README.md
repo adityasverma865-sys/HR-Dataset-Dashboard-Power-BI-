@@ -177,4 +177,4 @@ hr-people-analytics-powerbi/
 **Aditya S Verma**
 Model v1.0, built 23-Jul-2026
 
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](www.linkedin.com/in/aditya-s-verma-748645241) · [GitHub](https://github.com/adityasverma865-sys)
